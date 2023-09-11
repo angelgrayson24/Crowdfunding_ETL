@@ -1,15 +1,15 @@
 
 ## Crowdfunding Data Analysis
-# Overview
+
 This repository contains a dataset related to crowdfunding campaigns. The dataset comprises information about campaign categories, subcategories, campaign details, and contact information for campaign creators. This README file provides an overview of the data and analysis.
 
 ## Data
 The dataset is organized into the following main components:
 
-##Categories
+## Categories
 Category ID: A unique identifier for each campaign category.
 Category: Descriptive labels for campaign categories (e.g., "food," "music," "technology").
-Subcategories
+## Subcategories
 Subcategory ID: A unique identifier for each campaign subcategory.
 Subcategory: Descriptive labels for campaign subcategories (e.g., "food trucks," "rock," "web").
 ## Campaigns
