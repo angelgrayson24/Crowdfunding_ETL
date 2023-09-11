@@ -41,7 +41,6 @@ Examine the impact of the number of backers on campaign outcomes.
 Understand the geographical distribution of campaigns and their success rates.
 The provided data is a valuable resource for studying crowdfunding trends and patterns.
 ## Campaign Outcomes:
-Out of the 10 campaigns, 4 were successful, 4 failed, and 2 were canceled.
 The success rate appears to be 40%, while the failure rate is also 40%.
 ## Category and Subcategory Analysis:
 Categories and subcategories provide insights into the types of projects being funded.
