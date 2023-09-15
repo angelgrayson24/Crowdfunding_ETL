@@ -47,11 +47,7 @@ Categories and subcategories provide insights into the types of projects being f
 The most common top-level category is "food," with two campaigns, both of which fall under the "food trucks" subcategory.
 "Music" and "theater" are the next most common categories, each with two campaigns.
 "Photography," "publishing," and "technology" each have one campaign.
-## Success Rates by Category:
-Both "food" campaigns were successful, resulting in a 100% success rate for this category.
-"Music" had a 50% success rate, with one successful and one failed campaign.
-"Theater" had a 0% success rate, with both campaigns canceled.
-Other categories, such as "photography," "publishing," and "technology," each had one successful campaign.
+
 ## Success Rates by Subcategory:
 Within the "food" category, both campaigns in the "food trucks" subcategory were successful.
 In the "music" category, the "rock" subcategory campaign was successful, while "indie rock" failed.
